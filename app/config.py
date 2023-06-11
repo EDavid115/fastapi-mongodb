@@ -14,6 +14,8 @@ class Settings(BaseSettings):
 
     CLIENT_ORIGIN: str
 
+    SECRET_KEY: str
+
     class Config:
         env_file = './.env'
 
