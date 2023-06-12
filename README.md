@@ -31,3 +31,8 @@
 - app/main.py file, define an entry point for running the application
 - app/config.py allows us to load environment variables from a configuration
 - app/server/app.py file, define the application
+
+## Resources
+- https://github.com/wpcodevo/fastapi_mongodb
+- https://github.com/mouredev/Hello-Python/tree/main/Backend/FastAPI
+- https://github.com/Youngestdev/fastapi-mongo
